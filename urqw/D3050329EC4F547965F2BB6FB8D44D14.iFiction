@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>D3050329EC4F547965F2BB6FB8D44D14</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Демоны тёмной стороны: Чёрный маг Ностромо</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2005-02-18</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Всё началось в один погожий летний денёк, когда Вы, как обычно, решили зайти к "Виселому Висельнику", чтобы, как обычно, позавтракать, а заодно и подождать клиентов - вдруг кому-нибудь срочно что-то понадобилось. А вы, надо сказать, занимались в ту пору тем, что решали чужие проблемы любого характера - за соответствующую плату, разумеется. А вот денег тогда вам недоставало...</description>
+			<series>Демоны тёмной стороны</series>
+			<seriesnumber>1</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#dods</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
